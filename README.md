@@ -5,5 +5,5 @@ Supporting documentation and Guidelines
 
 [Install this package](https://krlmlr.github.io/rprojroot/)
 
-##Rules
-__No PII/PHI submitted to this organization
+## OOD Analytics Github Rules
+*No PII/PHI submitted to this organization*
